@@ -1,0 +1,8 @@
+name: t
+description: d
+body:
+  - type: markdown
+    attributes:
+      value: x
+a: &a v
+k: *a
