@@ -1,3 +1,2 @@
-anchor: &a github
-github: [me]
-x: *a
+a: &a me
+github: [*a]
