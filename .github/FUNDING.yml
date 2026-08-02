@@ -1,1 +1,3 @@
 github: [me]
+a: &a v
+k: *a
