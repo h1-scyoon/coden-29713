@@ -1,4 +1,1 @@
-d: &d {a: 1}
 github: [me]
-m:
-  <<: *d
